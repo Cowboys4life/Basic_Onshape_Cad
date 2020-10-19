@@ -58,13 +58,17 @@ This is part 2 mount. It was really fun to do. Can't wait to do part 3.
 ## Fork
 
 ### Description
+The third assignment you had to bulid a fork. It wasn't that long to do because it was easy steps. You had to sketch the fork than reflect it on the otner side and then you had to add fliets to the fork. Then you had to extrude cut through all and then you needed to make a circle on the botton of the fork then you were basically done.
 
 ### Evidence
+https://cvilleschools.onshape.com/documents/370665a5a62e1b7ac6ca5c53/w/015098721c863aa7d107ea09/e/3e0a18bfe6ff0f0bd5a1a875
 
 ### Image
 
-### Reflection
+<img src="Images/Fork.png" width="300">
 
+### Reflection
+This was part 3 fork it was very easy and not as long as the other parts. Can't wait to do Part 4
 ---
 
 
