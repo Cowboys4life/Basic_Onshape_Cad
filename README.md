@@ -76,12 +76,17 @@ This was part 3 fork it was very easy and not as long as the other parts. Can't 
 
 ### Description
 
+The fourth assignment I had to build a tire all I had to do was sketch on a front plane draw a trapzoid. Then had to make consruction lines on a front plane then add dimesions to the trapzoid and consruction lines. Then had to revolve it and then we had to add filets and change the color to grey and it was done.
+
 ### Evidence
 
+https://cvilleschools.onshape.com/documents/fa7b20b67c6d5acce67451c4/w/161cdccfea0cf5e12f0b9b2d/e/d75a56d78690808b8c45fc0a
 ### Image
 
-### Reflection
+<img src="Images/Tire.png" width="300">
 
+### Reflection
+This is part 4 didn't take that long to do. Can't wait to part 5 (wheel) for the tire.
 ---
 
 
