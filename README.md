@@ -100,7 +100,7 @@ The wheel was very fun to make I had to make 3 rectangles and had to add dimensi
 (https://cvilleschools.onshape.com/documents/a37b70c79cb7aa9d7c321a5f/w/7c0eb8ebaeda211454376290/e/afec890655d2098ee1404061)
 
 ### Image
-<img src="Images/Wheel.png" width="300">
+<img src="Images/wheel.png" width="300">
 
 ### Reflection
 Its was a little bit complicated to do the wheel but that what's engeneering for. Its not always gonna be easy but it was fun because it was challengeing. Onshape is really fun.
