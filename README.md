@@ -110,11 +110,13 @@ Its was a little bit complicated to do the wheel but that what's engeneering for
 ## AxleCollarBearings
 
 ### Description
-
+It was very intresting and fun to build this. I had to extrude a lot of things and make dimesions for all sorts of things. I struggled a little bit than I knew what I was doing. There was a lot of work that was going into this part.
 ### Evidence
-
+(https://cvilleschools.onshape.com/documents/a37b70c79cb7aa9d7c321a5f/w/7c0eb8ebaeda211454376290/e/afec890655d2098ee1404061) (https://cvilleschools.onshape.com/documents/62a779773c914d95798b098e/w/e9ea39ed149804960b8cbeb1/e/5d6f8c8c6432c38da025e729)
 ### Image
 
-### Reflection
+<img src="Images/Axel and Collar.png" width="300">
 
+### Reflection
+This part was very hard and challenging cant wait to assmble it. It has been very fun working with onshape.
 ---
