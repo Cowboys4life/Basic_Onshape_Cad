@@ -101,7 +101,7 @@ The wheel was very fun to make I had to make 3 rectangles and had to add dimensi
 
 ### Image
 
-<img src="Images/wheel.png" width="300"
+<img src="Images/Wheel and Bearing.png" width="300">
 
 ### Reflection
 Its was a little bit complicated to do the wheel but that what's engeneering for. Its not always gonna be easy but it was fun because it was challengeing. Onshape is really fun and challegeing.
